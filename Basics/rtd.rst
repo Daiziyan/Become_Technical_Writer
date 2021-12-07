@@ -37,6 +37,8 @@ Link to a specific spot:
 
 :ref:`learn sql <advanced-sql>`
 
+`man(2) eventfd <https://man7.org/linux/man-pages/man2/eventfd.2.html>`_
+
 
 
 
