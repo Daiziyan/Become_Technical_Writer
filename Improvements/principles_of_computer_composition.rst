@@ -8,18 +8,21 @@ Principles of Computer Composition
 主存储器 = 存储体 + MAR（存储地址寄存器） + MDR（存储数据寄存器）
 
 运算器 = ALU + ACC + MQ + X
+
 - ALU = arithmetic and logic unit 算数逻辑单元
 - ACC = accumulator 累加计数器
 - MQ 乘商寄存器
 - X 通用寄存器
 
 控制器 = CU + IR + PC
+
 - CU = Control Unit 控制单元，分析指令，发出控制信号
 - PC = program counter 程序计数器，自动加一，存放下一条指令的地址
 - IR = instruction Register 指令寄存器，存放当前执行的指令
 
 
 冯诺伊曼计算机特点：
+
 1. 计算机由五大部件构成
 2. 指令和数据以同等地位存于存储器，可按地址寻访
 3. 指令和数据用二进制表示
