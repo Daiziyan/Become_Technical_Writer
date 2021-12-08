@@ -34,13 +34,14 @@ Key Goals for 2022:
 
    Improvements/python
    Improvements/sql
-   Improvements/principles_of_computer_composition
+
 
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Four books
+   :caption: Book Notes
 
-   Computer_network/concept
+   BookNotes/principles_of_computer_composition
+   BookNotes/computer_network
 
 
