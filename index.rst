@@ -12,6 +12,7 @@ Key Goals for 2022:
 
 #. MCU
 #. Sphinx
+#. Doxygen
 #. Python
 #. ReST
 
@@ -22,10 +23,17 @@ Key Goals for 2022:
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :numbered:
    :caption: Basics
+   :glob:
 
-   Basics/rtd
-   Basics/sphinx
+   .. Basics/rtd
+   .. Basics/sphinx
+   .. Basics/ReST
+   .. Basics/IOT
+   .. Basics/technical_writing_course
+   .. Basics/writing_reference
+   Basics/*
 
 .. toctree::
    :hidden:
@@ -40,8 +48,34 @@ Key Goals for 2022:
    :hidden:
    :maxdepth: 2
    :caption: Book Notes
+   :glob:
 
-   BookNotes/principles_of_computer_composition
-   BookNotes/computer_network
+   .. BookNotes/principles_of_computer_composition
+   .. BookNotes/computer_network
+
+   BookNotes/*
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Manual of Style
+
+   Mos/manual_of_style
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: HTML
+
+   html/css
+   html/html
+   html/javascript
+
+
+
+
+
+
 
 
