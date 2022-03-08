@@ -27,13 +27,13 @@ Key Goals for 2022:
    :caption: Basics
    :glob:
 
-   .. Basics/rtd
-   .. Basics/sphinx
-   .. Basics/ReST
-   .. Basics/IOT
-   .. Basics/technical_writing_course
-   .. Basics/writing_reference
-   Basics/*
+   Basics/rtd
+   Basics/sphinx
+   Basics/ReST
+   Basics/IOT
+   Basics/technical_writing_course
+   Basics/writing_reference
+
 
 .. toctree::
    :hidden:
@@ -50,10 +50,8 @@ Key Goals for 2022:
    :caption: Book Notes
    :glob:
 
-   .. BookNotes/principles_of_computer_composition
-   .. BookNotes/computer_network
-
-   BookNotes/*
+   BookNotes/principles_of_computer_composition
+   BookNotes/computer_network
 
 
 .. toctree::
